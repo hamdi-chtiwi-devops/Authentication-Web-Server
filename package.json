@@ -24,6 +24,9 @@
     "dotenv": "^16.3.1",
     "express": "^4.17.1",
     "jsonwebtoken": "^9.0.1",
-    "mysql2": "^2.2.5"
+    "mysql2": "^2.2.5",
+    "passport": "^0.7.0",
+    "passport-facebook": "^3.0.0",
+    "passport-google-oauth20": "^2.0.0"
   }
 }
